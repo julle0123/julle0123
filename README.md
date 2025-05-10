@@ -6,7 +6,7 @@
 <!-- 📬 Contact Me -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me 🧑‍💻</h2>
-  <a href="https://www.notion.so/c13af6d4cf82421db88b02ff0d01292b" target="_blank">
+  <a href="https://www.notion.so/1ea6649b73d680988fdbfb20d72dbcb0?pvs=25" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="mailto:gimseongha4@gmail.com">
