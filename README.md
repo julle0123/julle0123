@@ -57,13 +57,3 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   </p>
 </div>
-
-<!-- 📊 Stats -->
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📊 GitHub Stats 📊</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gimseongha4&show_icons=true&theme=tokyonight" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimseongha4&layout=compact&theme=tokyonight" />
-  </p>
-</div>
