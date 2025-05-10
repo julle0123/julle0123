@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"><br>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
