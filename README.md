@@ -7,6 +7,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=julle0123&show_icons=true&theme=tokyonight" alt="julle0123's GitHub stats">
 </div>
 
+## 📊 사용 언어 통계
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julle0123&layout=compact&theme=default" alt="Top Langs" />
+
+</div>
+
+
 <!-- 📬 Contact Me -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me 🧑‍💻</h2>
