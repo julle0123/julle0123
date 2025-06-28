@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=98a6ff&text=Seongha%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Seongha GitHub">
 </div>
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julle0123&show_icons=true&theme=tokyonight" alt="julle0123's GitHub stats">
-</div>-->
+</div>
 
 
 <div align="center">
